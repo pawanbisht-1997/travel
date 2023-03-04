@@ -1,0 +1,133 @@
+/* @media (max-width:767px){
+    .OurPartners .card,.custompkgcard{
+        margin-bottom:1.5rem
+    }
+    .footer.footerAI,.left_banner_txt,footer.footerAI{
+        text-align:center
+    }
+    .customtabs li{
+        width:45.5%
+    }
+    .OurPartners .card{
+        padding:2rem
+    }
+    .left_banner_txt{
+        display:none;
+        margin-bottom:1rem
+    }
+    .socialicons{
+        justify-content:center
+    }
+    .footerleft{
+        margin-top:1rem
+    }
+    ul.book_now_btn{
+        margin:1rem 0
+    }
+    a.nav-link.active:after{
+        width:50px
+    }
+    .OurPartners,.hidemob{
+        display:none
+    }
+    .hidedesk{
+        display:block
+    }
+    .copyright{
+        margin-top:2rem
+    }
+    section.OurPartners .card img{
+        width:60%;
+        margin:0 auto
+    }
+    .top_form_div h5{
+        font-size:1rem;
+        margin-top:0
+    }
+    .top_form_div p{
+        margin-bottom:8px
+    }
+    .modal.custommodalform input,select{
+        height:43px
+    }
+}
+@media (min-width:768px) and (max-width:1024px){
+    .customtabs li{
+        width:31%
+    }
+    .left_banner_txt{
+        text-align:center;
+        margin-bottom:1rem
+    }
+}
+@media (max-width:220px){
+    .customtabs li{
+        width:46%
+    }
+} */
+
+
+
+/* 4 march 2023  */
+@media(max-width:991px){
+    .phoneemailmain{
+        justify-content: space-between !important;
+        padding: 0px 20px;
+    }
+    section.package_box {
+        overflow: hidden;
+    }
+
+}
+@media(max-width:478px){
+    .innder_pages h2 {
+        font-size: 24px;
+    }
+    .destinationfooter {
+         display: block;
+    }
+    .mainSearchsection {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .headerContent {
+        padding: 10px;
+    }
+    .video-overlayupper {
+        height: 75vh;
+    }    
+    .headerContent{
+        display: block;
+        width: 90%;
+        margin: auto;
+    }
+    .mouse_scroll {
+        margin-top: -350px;
+    }
+    .luxurystay {
+        padding: 0px;
+    }
+    #simlar_tour button.owl-prev{
+        position: static;
+    }
+    #simlar_tour button.owl-next{
+        position: static;
+    }
+
+    .package.aos-init {
+        margin-bottom: 70px;
+        padding: 10px 10px 20px;
+    }
+    .package_box .left .discount {
+        top: -7%;
+        left: -3%;
+    }
+    .package_box h4 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .footercustom{
+        margin-top: 0px;
+    }
+
+}
